@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gbhf0020.pages.dev/sitemap.xml
+Sitemap: https://blog.786692.xyz/sitemap.xml
