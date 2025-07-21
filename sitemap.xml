@@ -2,16 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.786692.xyz/%E4%B8%8B%E8%BD%BDB%E7%AB%99%E8%A7%86%E9%A2%91</loc>
+    <loc>http://blog.786692.xyz/about/</loc>
     
-    <lastmod>2025-07-06</lastmod>
+    <lastmod>2025-07-21</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://blog.786692.xyz/notice/index.html</loc>
+    <loc>http://blog.786692.xyz/7c71105e</loc>
+    
+    <lastmod>2025-07-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.786692.xyz/52573f7b</loc>
+    
+    <lastmod>2025-07-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.786692.xyz/notice/</loc>
     
     <lastmod>2025-06-26</lastmod>
     
@@ -20,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://blog.786692.xyz/progress/index.html</loc>
+    <loc>http://blog.786692.xyz/progress/</loc>
     
     <lastmod>2025-06-26</lastmod>
     
@@ -29,25 +47,7 @@
   </url>
   
   <url>
-    <loc>http://blog.786692.xyz/MarkText-%E6%B1%89%E5%8C%96</loc>
-    
-    <lastmod>2025-06-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.786692.xyz/about/index.html</loc>
-    
-    <lastmod>2025-06-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.786692.xyz/friends/index.html</loc>
+    <loc>http://blog.786692.xyz/friends/</loc>
     
     <lastmod>2025-05-18</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://blog.786692.xyz/categories/index.html</loc>
+    <loc>http://blog.786692.xyz/categories/</loc>
     
     <lastmod>2025-05-17</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://blog.786692.xyz/tags/index.html</loc>
+    <loc>http://blog.786692.xyz/tags/</loc>
     
     <lastmod>2025-04-20</lastmod>
     
@@ -76,7 +76,7 @@
 
   <url>
     <loc>http://blog.786692.xyz/</loc>
-    <lastmod>2025-07-06</lastmod>
+    <lastmod>2025-07-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -84,14 +84,14 @@
   
   <url>
     <loc>http://blog.786692.xyz/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-07-06</lastmod>
+    <lastmod>2025-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.786692.xyz/tags/python/</loc>
-    <lastmod>2025-07-06</lastmod>
+    <lastmod>2025-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
