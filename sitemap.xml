@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.786692.xyz/about/</loc>
+    <loc>http://blog.786692.xyz/6860d3bd</loc>
     
-    <lastmod>2025-07-25</lastmod>
+    <lastmod>2025-07-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,16 @@
   <url>
     <loc>http://blog.786692.xyz/7c71105e</loc>
     
-    <lastmod>2025-07-21</lastmod>
+    <lastmod>2025-07-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.786692.xyz/about/</loc>
+    
+    <lastmod>2025-07-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -76,7 +85,7 @@
 
   <url>
     <loc>http://blog.786692.xyz/</loc>
-    <lastmod>2025-07-25</lastmod>
+    <lastmod>2025-07-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -84,14 +93,14 @@
   
   <url>
     <loc>http://blog.786692.xyz/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-07-25</lastmod>
+    <lastmod>2025-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.786692.xyz/tags/python/</loc>
-    <lastmod>2025-07-25</lastmod>
+    <lastmod>2025-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
