@@ -27,15 +27,15 @@
     
     
         
-        <meta name="description" content="&emsp;&emsp;请恕我文笔不好，只想写写。   &emsp;&emsp;我觉得，应当在真正有实力，能够对他人进行指导时，才当问心无愧的写下博文。我还在学习阶段，起初学了一点 Python（只有一点点），似乎就没有尾声了。然后最近又在学前端，看看效果：会一点 HTML，CSS 根本记不住，JavaScript 基本不会。   &emsp;&emsp;自己似乎没有持之以恒的毅力。不仅在编程上，">
+        <meta name="description" content="&emsp;&emsp;请恕我文笔不好，只想写写。   &emsp;&emsp;我觉得，应当在真正有实力，能够对他人进行指导时，才当问心无愧的写下博文。我还在学习阶段，起初学了一点 Python（只会一点点），似乎就没有尾声了。然后最近又在学前端，看看效果：会一点 HTML，CSS 根本记不住，JavaScript 基本不会。   &emsp;&emsp;自己似乎没有持之以恒的毅力。不仅在编程上，">
 <meta property="og:type" content="article">
 <meta property="og:title" content="流月的倾诉">
 <meta property="og:url" content="http://blog.786692.xyz/259b44c0">
 <meta property="og:site_name" content="流月的博客">
-<meta property="og:description" content="&emsp;&emsp;请恕我文笔不好，只想写写。   &emsp;&emsp;我觉得，应当在真正有实力，能够对他人进行指导时，才当问心无愧的写下博文。我还在学习阶段，起初学了一点 Python（只有一点点），似乎就没有尾声了。然后最近又在学前端，看看效果：会一点 HTML，CSS 根本记不住，JavaScript 基本不会。   &emsp;&emsp;自己似乎没有持之以恒的毅力。不仅在编程上，">
+<meta property="og:description" content="&emsp;&emsp;请恕我文笔不好，只想写写。   &emsp;&emsp;我觉得，应当在真正有实力，能够对他人进行指导时，才当问心无愧的写下博文。我还在学习阶段，起初学了一点 Python（只会一点点），似乎就没有尾声了。然后最近又在学前端，看看效果：会一点 HTML，CSS 根本记不住，JavaScript 基本不会。   &emsp;&emsp;自己似乎没有持之以恒的毅力。不仅在编程上，">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2025-07-31T10:26:58.000Z">
-<meta property="article:modified_time" content="2025-08-01T04:46:30.486Z">
+<meta property="article:modified_time" content="2025-08-01T04:52:13.349Z">
 <meta property="article:author" content="流月">
 <meta name="twitter:card" content="summary">
     
@@ -536,8 +536,8 @@
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2025-08-01 12:46:30</span>
-            <span class="mobile">2025-08-01 12:46:30</span>
+            <span class="desktop">2025-08-01 12:52:13</span>
+            <span class="mobile">2025-08-01 12:52:13</span>
             <span class="hover-info">更新</span>
         </span>
     
@@ -561,7 +561,7 @@
 
 		<div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
 			<p>&emsp;&emsp;请恕我文笔不好，只想写写。  </p>
-<p>&emsp;&emsp;我觉得，应当在真正有实力，能够对他人进行指导时，才当问心无愧的写下博文。我还在学习阶段，起初学了一点 Python（只有一点点），似乎就没有尾声了。然后最近又在学前端，看看效果：会一点 HTML，CSS 根本记不住，JavaScript 基本不会。  </p>
+<p>&emsp;&emsp;我觉得，应当在真正有实力，能够对他人进行指导时，才当问心无愧的写下博文。我还在学习阶段，起初学了一点 Python（只会一点点），似乎就没有尾声了。然后最近又在学前端，看看效果：会一点 HTML，CSS 根本记不住，JavaScript 基本不会。  </p>
 <p>&emsp;&emsp;自己似乎没有持之以恒的毅力。不仅在编程上，生活中的其他方方面面都是如此，这里就不必展开说了。  </p>
 <p>&emsp;&emsp;其实，这个博客也是一时兴起，当时找资源时看到了<a class="link"   target="_blank" rel="noopener" href="https://旁白.com/" >旁白的Blog<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>，也就找到了 Redefine 这款主题——其实之前我连博客框架是什么都不知道，跟 AI “斡旋”了许久，才知道要装 Hexo、要<code>npm install</code>安装依赖，等等。  </p>
 <p>&emsp;&emsp;然后是迫不及待地想写文章充实博客，却发现没什么可写的：写文章？我说了自己文笔不好。写技术类的？自己正好什么都不会……  </p>
@@ -584,7 +584,7 @@
         
             <li>
                 <strong>更新于
-                    :</strong> 2025-08-01 12:46:30
+                    :</strong> 2025-08-01 12:52:13
             </li>
         
         <li>
