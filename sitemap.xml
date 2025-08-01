@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.786692.xyz/vercel.json</loc>
+    <loc>http://blog.786692.xyz/259b44c0</loc>
     
-    <lastmod>2025-07-31</lastmod>
+    <lastmod>2025-08-01</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://blog.786692.xyz/259b44c0</loc>
+    <loc>http://blog.786692.xyz/vercel.json</loc>
     
     <lastmod>2025-07-31</lastmod>
     
@@ -103,7 +103,7 @@
 
   <url>
     <loc>http://blog.786692.xyz/</loc>
-    <lastmod>2025-07-31</lastmod>
+    <lastmod>2025-08-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -111,14 +111,14 @@
   
   <url>
     <loc>http://blog.786692.xyz/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-07-31</lastmod>
+    <lastmod>2025-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.786692.xyz/tags/python/</loc>
-    <lastmod>2025-07-31</lastmod>
+    <lastmod>2025-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

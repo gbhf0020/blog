@@ -27,15 +27,15 @@
     
     
         
-        <meta name="description" content="请稍等，暂未完成。">
+        <meta name="description" content="&emsp;&emsp;请恕我文笔不好，只想写写。   &emsp;&emsp;我觉得，应当在真正有实力，能够对他人进行指导时，才当问心无愧的写下博文。我还在学习阶段，起初学了一点 Python（只有一点点），似乎就没有尾声了。然后最近又在学前端，看看效果：会一点 HTML，CSS 根本记不住，JavaScript 基本不会。   &emsp;&emsp;自己似乎没有持之以恒的毅力。不仅在编程上，">
 <meta property="og:type" content="article">
 <meta property="og:title" content="流月的倾诉">
 <meta property="og:url" content="http://blog.786692.xyz/259b44c0">
 <meta property="og:site_name" content="流月的博客">
-<meta property="og:description" content="请稍等，暂未完成。">
+<meta property="og:description" content="&emsp;&emsp;请恕我文笔不好，只想写写。   &emsp;&emsp;我觉得，应当在真正有实力，能够对他人进行指导时，才当问心无愧的写下博文。我还在学习阶段，起初学了一点 Python（只有一点点），似乎就没有尾声了。然后最近又在学前端，看看效果：会一点 HTML，CSS 根本记不住，JavaScript 基本不会。   &emsp;&emsp;自己似乎没有持之以恒的毅力。不仅在编程上，">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2025-07-31T10:26:58.000Z">
-<meta property="article:modified_time" content="2025-07-31T10:41:09.836Z">
+<meta property="article:modified_time" content="2025-08-01T04:46:30.486Z">
 <meta property="article:author" content="流月">
 <meta name="twitter:card" content="summary">
     
@@ -82,7 +82,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"blog.786692.xyz","root":"/","language":"zh-CN"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"14px","image_alignment":"center","image_caption":false,"link_icon":true,"delete_mask":false,"title_alignment":"left","headings_top_spacing":{"h1":"3.2rem","h2":"2.4rem","h3":"1.9rem","h4":"1.6rem","h5":"1.4rem","h6":"1.3rem"}},"word_count":{"enable":true,"count":true,"min2read":false},"author_label":{"enable":true,"auto":false,"list":["Sitrmoo"]},"code_block":{"copy":true,"style":"mac","highlight_theme":{"light":"github","dark":"vs2015"},"font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":true},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"pangu_js":false,"recommendation":{"enable":false,"title":"推荐阅读","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#FF1493","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null},"title":{"enable":true,"family":false,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":false},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":{"enable":true,"custom_message":"Sitrmoo's Blog"},"open_graph":true,"google_analytics":{"enable":false,"id":null}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/home-light.jpg","dark":"/images/home-dark.webp"},"title":"流月的博客","subtitle":{"text":["流萤绕砌夜初静，月满西楼梦正酣。"],"hitokoto":{"enable":false,"show_author":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#F5F5F5","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":true,"style":"default","links":{"github":"https://github.com/gbhf0020","instagram":null,"zhihu":null,"twitter":null,"email":null,"fa-brands fa-facebook":"https://www.facebook.com/profile.php?id=61576970621844","fa-solid fa-envelope":"mailto:gbhf0020@gmail.com"},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":false},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"11.4.1"}},"version":"2.8.5","navbar":{"auto_hide":true,"color":{"left":"#e9afc6","right":"#367df7","transparency":40},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-solid fa-house"},"进程全览":{"path":"/progress","icon":"fa-solid fa-bars-progress"},"关于":{"path":"/about","icon":"fa-solid fa-info"},"更多":{"icon":"fa-solid fa-ellipsis","submenus":{"公告":"/notice","友情链接":"/friends"}}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","excerpt_length":200,"categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2025/04/13 14:00:00"};
+    window.theme = {"articles":{"style":{"font_size":"18px","line_height":1.5,"image_border_radius":"14px","image_alignment":"center","image_caption":false,"link_icon":true,"delete_mask":false,"title_alignment":"left","headings_top_spacing":{"h1":"3.2rem","h2":"2.4rem","h3":"1.9rem","h4":"1.6rem","h5":"1.4rem","h6":"1.3rem"}},"word_count":{"enable":true,"count":true,"min2read":false},"author_label":{"enable":true,"auto":false,"list":["Sitrmoo"]},"code_block":{"copy":true,"style":"mac","highlight_theme":{"light":"github","dark":"vs2015"},"font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":true},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"pangu_js":false,"recommendation":{"enable":false,"title":"推荐阅读","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#FF1493","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null},"title":{"enable":true,"family":false,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":false},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":{"enable":true,"custom_message":"Sitrmoo's Blog"},"open_graph":true,"google_analytics":{"enable":false,"id":null}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/home-light.jpg","dark":"/images/home-dark.webp"},"title":"流月的博客","subtitle":{"text":["流萤绕砌夜初静，月满西楼梦正酣。"],"hitokoto":{"enable":false,"show_author":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#F5F5F5","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":true,"style":"default","links":{"github":"https://github.com/gbhf0020","instagram":null,"zhihu":null,"twitter":null,"email":null,"fa-brands fa-facebook":"https://www.facebook.com/profile.php?id=61576970621844","fa-solid fa-envelope":"mailto:gbhf0020@gmail.com"},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":false},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"11.4.1"}},"version":"2.8.5","navbar":{"auto_hide":true,"color":{"left":"#e9afc6","right":"#367df7","transparency":40},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-solid fa-house"},"进程全览":{"path":"/progress","icon":"fa-solid fa-bars-progress"},"关于":{"path":"/about","icon":"fa-solid fa-info"},"更多":{"icon":"fa-solid fa-ellipsis","submenus":{"公告":"/notice","友情链接":"/friends"}}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","excerpt_length":200,"categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2025/04/13 14:00:00"};
     window.lang_ago = {"second":"%s 秒前","minute":"%s 分钟前","hour":"%s 小时前","day":"%s 天前","week":"%s 周前","month":"%s 个月前","year":"%s 年前"};
     window.data = {"masonry":false};
   </script>
@@ -536,8 +536,8 @@
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2025-07-31 18:41:09</span>
-            <span class="mobile">2025-07-31 18:41:09</span>
+            <span class="desktop">2025-08-01 12:46:30</span>
+            <span class="mobile">2025-08-01 12:46:30</span>
             <span class="hover-info">更新</span>
         </span>
     
@@ -560,7 +560,16 @@
 
 
 		<div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-			<p>请稍等，暂未完成。</p>
+			<p>&emsp;&emsp;请恕我文笔不好，只想写写。  </p>
+<p>&emsp;&emsp;我觉得，应当在真正有实力，能够对他人进行指导时，才当问心无愧的写下博文。我还在学习阶段，起初学了一点 Python（只有一点点），似乎就没有尾声了。然后最近又在学前端，看看效果：会一点 HTML，CSS 根本记不住，JavaScript 基本不会。  </p>
+<p>&emsp;&emsp;自己似乎没有持之以恒的毅力。不仅在编程上，生活中的其他方方面面都是如此，这里就不必展开说了。  </p>
+<p>&emsp;&emsp;其实，这个博客也是一时兴起，当时找资源时看到了<a class="link"   target="_blank" rel="noopener" href="https://旁白.com/" >旁白的Blog<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>，也就找到了 Redefine 这款主题——其实之前我连博客框架是什么都不知道，跟 AI “斡旋”了许久，才知道要装 Hexo、要<code>npm install</code>安装依赖，等等。  </p>
+<p>&emsp;&emsp;然后是迫不及待地想写文章充实博客，却发现没什么可写的：写文章？我说了自己文笔不好。写技术类的？自己正好什么都不会……  </p>
+<p>&emsp;&emsp;现在想来，是一颗想要表现的心在作祟，论怎么调节这种心理，恐怕能写几本专业的科普书了，外行的我也就没必要发表见解。  </p>
+<p>&emsp;&emsp;有一个词叫“厚积薄发”，我们都理解，或者换作前段时间流行的“沉淀”。不错，我觉得自己真该“沉淀”一下，在能拿出自己的得意之作后再展示，现在时机未到。  </p>
+<p>&emsp;&emsp;是故，就暂停开放博客吧。至于多久开放，那我也说不清楚，我是打算学学前端（先三件套，再看看 Vue 之类的框架吧），然后学点 Python、C++等其他的。况且，作为高中生，我的时间有限，博客关闭可能一年，两年，或许更久。  </p>
+<p>&emsp;&emsp;当然，总有开放的一天。博客不仅有技术，生活也是必须的。  </p>
+<p>&emsp;&emsp;最后，谢谢你看到这。</p>
 
 		</div>
 
@@ -575,7 +584,7 @@
         
             <li>
                 <strong>更新于
-                    :</strong> 2025-07-31 18:41:09
+                    :</strong> 2025-08-01 12:46:30
             </li>
         
         <li>
